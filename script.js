@@ -29,7 +29,6 @@ if (status === "parent") {
 	console.log("December", status)
 	count += 1;
   }
-
 	console.log(date, "Day of Goodwill")
 	count += 1;
 
